@@ -8,7 +8,8 @@
     "dev": "node --watch src/server.js",
     "lint": "eslint . --ext .js",
     "test": "jest --runInBand",
-    "seed": "node src/scripts/seed.js"
+    "seed": "node src/scripts/seed.js",
+    "start": "node --watch backend/src/server.js"
   },
   "keywords": [],
   "author": "",
