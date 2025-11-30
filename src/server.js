@@ -26,7 +26,7 @@ const PORT = process.env.PORT || 5000
 const corsOptions = {
   origin: [
     "http://localhost:5173",
-    "https://unifor-gerenciador-front-end.vercel.app"
+    "https://conecta-mercado-1ctan7f5u-geversonfernandes-projects.vercel.app"
   ],
   credentials: true,
 };
