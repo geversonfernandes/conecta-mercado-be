@@ -9,7 +9,7 @@
     "lint": "eslint . --ext .js",
     "test": "jest --runInBand",
     "seed": "node src/scripts/seed.js",
-    "start": "node --watch backend/src/server.js"
+    "start": "node --watch src/server.js"
   },
   "keywords": [],
   "author": "",
