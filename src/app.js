@@ -29,7 +29,7 @@ app.set('trust proxy', 1)
 const corsOptions = {
   origin: [
     'http://localhost:5173',
-    'https://conecta-mercado-1ctan7f5u-geversonfernandes-projects.vercel.app'
+    'https://conecta-mercado-fe.vercel.app'
   ],
   credentials: true
 }
